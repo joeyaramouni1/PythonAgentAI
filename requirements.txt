@@ -3,3 +3,4 @@ llama-index-experimental==0.5.4
 pypdf==5.3.1
 python-dotenv==1.0.1
 pandas==2.2.3
+geopy==2.4.1
